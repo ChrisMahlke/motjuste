@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Website build tooling
+node_modules/
